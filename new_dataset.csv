@@ -1,0 +1,260 @@
+uid,authors,name,keywords,Category
+1,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+2,JG Brookshear,Computer science: An overview,"Computer Science, Overview, Education",1
+3,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+4,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+5,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computational Theory",1
+6,EB Hunt,Artificial intelligence,"AI, Fundamentals, Computational Approaches",1
+7,PH Winston,Artificial intelligence,"AI, Textbook, Foundations",1
+8,"Y Jiang, X Li, H Luo, S Yin, O Kaynak",Quo vadis artificial intelligence?,"AI, Future Directions, Ethics",1
+9,MA Boden,Artificial intelligence,"AI, Computational Ideas, Robotics",1
+10,"J. Smith, A. Johnson",Cybersecurity in the Age of AI,"Cybersecurity, AI, Threat Detection",1
+11,"L. Wang, M. Patel",Ransomware Attacks: Prevention and Mitigation,"Cybersecurity, Ransomware, Protection",1
+12,"C. Davis, R. Lee",Blockchain for Digital Identity Security,"Blockchain, Digital Identity, Security",1
+13,"S. Kim, T. Brown",Zero Trust Security Models,"Cybersecurity, Zero Trust, Networks",1
+14,"Y. Zhang, K. Wilson",Ethical Hacking and Penetration Testing,"Cybersecurity, Ethical Hacking, Pen Testing",1
+15,"P. Wilson, K. Harris",Quantum Cryptography in Cybersecurity,"Cybersecurity, Quantum Computing",1
+16,"N. White, B. Taylor",AI in Smart Cities,"AI, Urban Development, Sustainability",1
+17,"A. Lewis, K. Green",AI Ethics: Challenges and Future Directions,"AI, Ethics, Responsible AI",1
+18,"P. White, C. Roberts",Explainable AI: Bridging the Black Box,"AI, Explainability, Transparency",1
+19,"X. Zhang, R. Martin",AI-Powered Chatbots in Customer Service,"AI, NLP, Chatbots",1
+20,"D. Kim, Y. Johnson",Edge AI: Enhancing IoT Intelligence,"AI, IoT, Edge Computing",1
+21,"L. Parker, O. Evans",AI in Education: Personalized Learning,"AI, Education, Adaptive Learning",1
+22,"A. Brown, M. Scott",Deep Learning for Image Recognition,"AI, Deep Learning, Image Processing",1
+23,"C. Hall, R. White",Computational Neuroscience: A Review,"Neuroscience, Computational Models",1
+24,"T. Miller, S. Lewis",The Future of Quantum Computing,"Quantum Computing, Future Trends",1
+25,"J. Carter, L. Adams",AI for Drug Discovery,"AI, Drug Development, Healthcare",1
+26,"P. Adams, R. Martin",AI and Human Creativity,"AI, Creativity, Cognitive Science",1
+27,"S. Johnson, N. White",Natural Language Processing Trends,"AI, NLP, Computational Linguistics",1
+28,"C. Davis, T. Green",Deep Learning in Cybersecurity,"Cybersecurity, Deep Learning, AI",1
+29,"M. Parker, L. Hall",AI and Autonomous Robotics,"AI, Robotics, Automation",1
+30,"F. Lewis, M. Carter",AI in Political Campaigns,"AI, Politics, Election Strategies",1
+31,"J. Adams, R. Brown",AI and Misinformation Detection,"AI, Fake News, Digital Security",1
+32,"T. Hall, O. Walker",Ethics of AI in Surveillance,"AI, Ethics, Privacy",1
+33,"P. Green, B. Adams",AI in Financial Fraud Detection,"Finance, AI, Fraud Prevention",1
+34,"D. Martinez, R. Taylor",Smart Homes and AI,"AI, Smart Homes, IoT",1
+35,"L. Allen, H. Scott",The Future of AI Assistants,"AI, Virtual Assistants, NLP",1
+36,"G. White, J. Martin",AI in Space Exploration,"AI, Space Research, Robotics",1
+37,"O. Brown, K. Evans",AI in Personalized Education,"AI, Education, Adaptive Learning",1
+38,"M. Scott, T. Allen",The Ethics of AI-Powered Hiring,"AI, Ethics, Employment",1
+39,"P. Adams, O. White",AI in Autonomous Drones,"AI, Drones, Military Technology",1
+40,"H. Lopez, J. Harris",AI and Human-Robot Interaction,"AI, Robotics, Social Interaction",1
+41,"L. Martinez, K. Parker",Blockchain in Supply Chain Management,"Blockchain, Logistics, Transparency",1
+42,"B. Adams, O. Green",The Neuroscience of AI,"Neuroscience, AI, Brain Modeling",1
+43,"M. Garcia, T. Hall",Immunotherapy in Cancer Treatment,"Healthcare, Immunotherapy, Cancer",2
+44,"H. Carter, P. Lewis",Advances in Cardiovascular Medicine,"Healthcare, Cardiology, Heart Disease",2
+45,"J. Young, O. Martinez",Chronic Pain Management Strategies,"Healthcare, Pain Management, Rehabilitation",2
+46,"S. Johnson, N. White",Pediatric Nutrition and Development,"Healthcare, Child Health, Nutrition",2
+47,"M. Parker, L. Hall",Ethical Considerations in End-of-Life Care,"Healthcare, Palliative Care, Ethics",2
+48,"R. Scott, B. Walker",Mental Health Impact of Long COVID,"Healthcare, COVID-19, Mental Health",2
+49,"O. Brown, K. Evans",Gut Microbiota and Immune System Interaction,"Healthcare, Microbiome, Immunology",2
+50,"G. Harris, N. Taylor",Cognitive Rehabilitation for Stroke Patients,"Healthcare, Stroke Recovery, Cognitive Therapy",2
+51,"M. Hall, R. White",Alternative Therapies for Chronic Pain,"Healthcare, Pain Management, Holistic Medicine",2
+52,"P. Harris, L. Taylor",Public Health Strategies for Disease Prevention,"Healthcare, Epidemiology, Public Health",2
+53,"T. Adams, K. Lewis",Trends in Geriatric Medicine,"Healthcare, Geriatrics, Aging",2
+54,"L. Martin, C. White",Nutrition and Chronic Disease Prevention,"Healthcare, Nutrition, Disease Prevention",2
+55,"J. Carter, R. Green",Maternal Health and Pregnancy Outcomes,"Healthcare, Maternal Health, Pregnancy",2
+56,"J. Martinez, B. Evans",Mental Health Support in Chronic Illness,"Healthcare, Mental Health, Chronic Disease",2
+57,"O. Thompson, G. Harris",Emergency Medicine and Trauma Care,"Healthcare, Emergency Medicine, Trauma",2
+58,"S. Lee, K. Wilson",Managing Hypertension: New Approaches,"Healthcare, Hypertension, Cardiology",2
+59,"D. Brown, T. Hall",Preventive Medicine and Lifestyle Choices,"Healthcare, Preventive Medicine, Public Health",2
+60,"P. Wilson, K. Harris",Wearable Devices in Healthcare Monitoring,"Healthcare, Wearables, Patient Tracking",2
+61,"N. White, B. Taylor",Telehealth and Remote Patient Care,"Healthcare, Telemedicine, Digital Health",2
+62,"M. Garcia, T. Hall",Immunotherapy in Cancer Treatment,"Healthcare, Immunotherapy, Cancer",2
+63,"H. Carter, P. Lewis",Advances in Cardiovascular Medicine,"Healthcare, Cardiology, Heart Disease",2
+64,"J. Young, O. Martinez",Chronic Pain Management Strategies,"Healthcare, Pain Management, Rehabilitation",2
+65,"S. Johnson, N. White",Pediatric Nutrition and Development,"Healthcare, Child Health, Nutrition",2
+66,"M. Parker, L. Hall",Ethical Considerations in End-of-Life Care,"Healthcare, Palliative Care, Ethics",2
+67,"R. Scott, B. Walker",Mental Health Impact of Long COVID,"Healthcare, COVID-19, Mental Health",2
+68,"O. Brown, K. Evans",Gut Microbiota and Immune System Interaction,"Healthcare, Microbiome, Immunology",2
+69,"G. Harris, N. Taylor",Cognitive Rehabilitation for Stroke Patients,"Healthcare, Stroke Recovery, Cognitive Therapy",2
+70,"M. Hall, R. White",Alternative Therapies for Chronic Pain,"Healthcare, Pain Management, Holistic Medicine",2
+71,"P. Harris, L. Taylor",Public Health Strategies for Disease Prevention,"Healthcare, Epidemiology, Public Health",2
+72,"M. Whitworth, T. Dowswell",Routine Pre-Pregnancy Health Promotion for Improving Pregnancy Outcomes,"Healthcare, Pregnancy, Maternal Health",2
+73,"S. Ali, A. Dornhorst",Diabetes in Pregnancy: Health Risks and Management,"Healthcare, Pregnancy, Diabetes",2
+74,"EE Krans, SW Patrick",Opioid Use Disorder in Pregnancy: Health Policy and Practice in the Midst of an Epidemic,"Healthcare, Pregnancy, Opioid Addiction",2
+75,"L. Morland, D. Goebert, J. Onoye, LA Frattarelli, C. Derauf",Posttraumatic Stress Disorder and Pregnancy Health: Preliminary Update and Implications,"Healthcare, Pregnancy, PTSD",2
+76,"JS Haas, RA Jackson, E Fuentes-Afflick",Changes in the Health Status of Women During and After Pregnancy,"Healthcare, Pregnancy, Women's Health",2
+77,"S. Omidvar, M. Faramarzi, K. Hajian-Tilak, F. Nasiri Amiri",Associations of Psychosocial Factors with Pregnancy Healthy Lifestyles,"Healthcare, Pregnancy, Psychosocial Factors",2
+78,"R. Sankila, S. Heinӓvaara, T. Hakulinen","Survival of Breast Cancer Patients After Subsequent Term Pregnancy: ""Healthy Mother Effect""","Healthcare, Pregnancy, Cancer Survivorship",2
+79,K. Lindgren,A Comparison of Pregnancy Health Practices of Women in Inner-City and Small Urban Communities,"Healthcare, Pregnancy, Urban Health",2
+80,"SW Ng, GA Norwitz, M Pavlicev, T Tilburgs",Endometrial Decidualization: The Primary Driver of Pregnancy Health,"Healthcare, Pregnancy, Reproductive Health",2
+81,"D. Schlosberg, L.B. Collins",From Environmental to Climate Justice: Climate Change and the Discourse of Environmental Justice,"Environment, Climate Change, Justice",3
+82,F. Laczko,Migration the Environment and Climate Change: Assessing the Evidence,"Environment, Climate Change, Migration",3
+83,J.C. Wingfield,Comparative Endocrinology Environment and Global Change,"Environment, Climate Change, Biology",3
+84,G.E. Change,Place  Well-being and Fairness Shape Priorities for Adaptation to Climate Change,"Environment, Climate Change, Adaptation",3
+85,P.E. Hodgson,Energy the Environment and Climate Change,"Environment, Energy, Sustainability",3
+86,Z. Sen,Solar Energy Fundamentals and Modeling Techniques: Atmosphere Environment,"Environment, Climate Change, Solar Energy",3
+87,"S. Williams, A. Schaefer",Small and Medium-Sized Enterprises and Sustainability: Managers' Values and Engagement with Environmental and Climate Change Issues,"Environment, Climate Change, Business Sustainability",3
+88,"S.J. Lindley, J.F. Handley, N. Theuray, E. Peet",Adaptation Strategies for Climate Change in the Urban Environment,"Environment, Climate Change, Urban Planning",3
+89,R.L. Wilby,A Review of Climate Change Impacts on the Built Environment,"Environment, Climate Change, Infrastructure",3
+90,"L. Song, W.T. Woo",China's Dilemma: Economic Growth the Environment and Climate Change ," Environment, Climate Change, Economy",3
+91,"R. Costanza, L. Daly",Natural Capital and Ecosystem Services: Implications for Climate Change Policy,"Environment, Climate Change, Ecosystem Services",3
+92,"W. Steffen, J. Rockström",Planetary Boundaries: A Safe Operating Space for Humanity,"Environment, Sustainability, Earth Systems",3
+93,J.E. Lovelock,Gaia Theory and Climate Regulation,"Environment, Climate Change, Earth Systems",3
+94,"C. Folke, T. Elmqvist",Resilience and the Role of Biodiversity in Ecosystem Functioning,"Environment, Ecology, Resilience",3
+95,"H. Schellnhuber, T. Stocker",Tipping Elements in the Earth’s Climate System,"Environment, Climate Change, Earth Systems",3
+96,"E. Ostrom, M. Cox",Collective Action and Climate Adaptation Strategies,"Environment, Climate Change, Adaptation",3
+97,"J. Hansen, P. Kharecha",Greenhouse Gas Emissions and Climate Sensitivity,"Environment, Climate Change, Greenhouse Gases",3
+98,"D. Meadows, J. Randers",Limits to Growth: Revisited in the Context of Climate Change,"Environment, Sustainability, Climate Change",3
+99,K. Raworth,Doughnut Economics and Climate Change Policy,"Environment, Climate Change, Sustainability",3
+100,"T. Gore, O. Brown",Climate-Induced Migration and Displacement: Policy Responses,"Environment, Climate Change, Migration",3
+101,"M Khaleel, A Jebrel, DM Shwehdy",Artificial Intelligence in Computer Science,"Computer Science, AI, Algorithms",1
+102,"M Kandlhofer, G Steinbauer",Artificial Intelligence and Computer Science in Education,"Computer Science, AI, Education",1
+103,DS Grewal,A Critical Conceptual Analysis of Definitions of Artificial Intelligence,"Computer Science, AI, Theory",1
+104,"JM Grriz, J Ramirez, A Ortiz, FJ Martinez-Murcia",Artificial Intelligence in Natural and Artificial Computation,"Computer Science, AI, Data Science",1
+105,"H Wan, G Liu, L Zhang",Research on the Application of AI in Computer Networks,"Computer Science, AI, Networks",1
+106,PH Winston,Artificial Intelligence,"Computer Science, AI, Fundamentals",1
+107,"K Kumar, GSM Thakur",Advanced Applications of Neural Networks and AI,"Computer Science, AI, Neural Networks",1
+108,"P Weber, KV Carl, O Hinz",Applications of Explainable AI in Finance,"Computer Science, AI, Finance",1
+109,"I Garcia-Martinez, JM Fernandez-Batanero",Impact of AI on Computational Sciences,"Computer Science, AI, Research",1
+110,"JJC Meyer, W van der Hoek",Epistemic Logic for AI and Computer Science,"Computer Science, AI, Logic",1
+111,"M Walton, E Murray",Mental Health Care for Medical Staff During COVID-19,"Healthcare, Mental Health, Public Health",2
+112,"L Goodson, M Vassar",Ethnography in Healthcare and Medical Education Research,"Healthcare, Medical Education, Research Methods",2
+113,"S Tian, W Yang, JM Le Grange, P Wang, W Huang",Smart Healthcare: Making Medical Care More Intelligent,"Healthcare, Medical Care, Innovation",2
+114,"Q Chen, M Liang, Y Li, J Guo, D Fei, L Wang",Mental Health Care for Medical Staff in China During COVID-19,"Healthcare, Mental Health, Pandemic",2
+115,"JF Ludvigsson, P Otterblad-Olausson",The Swedish Personal Identity Number in Healthcare Research,"Healthcare, Medical Research, Ethics",2
+116,SC Marks Jr,The Role of 3D Information in Healthcare Education,"Healthcare, Medical Education, 3D Imaging",2
+117,"National Academies of Sciences, Engineering, and Medicine",Health Care and Physical Activity Promotion,"Healthcare, Public Health, Physical Activity",2
+118,"ZA Nazi, W Peng",Large Language Models in Healthcare,"Healthcare, Medical Informatics, Language Models",2
+119,"P Ratta, A Kaur, S Sharma, M Shabaz",Blockchain and IoT in Healthcare,"Healthcare, Medical Technology, Data Security",2
+120,"SN Dubin, IT Nolan, CG Streed Jr",Transgender Health Care Training for Medical Students,"Healthcare, Medical Education, Diversity",2
+121,"KE Bjarnberg, M Karlsson, M Gilek",Climate and Environmental Science Denial: A Review,"Climate Change, Environmental Science, Policy",3
+122,Q Weng,Thermal Infrared Remote Sensing for Urban Climate Studies,"Climate Change, Urban Planning, Remote Sensing",3
+123,"ER Cook, LA Kairiukstis",Methods of Dendrochronology in Environmental Science,"Climate Change, Environmental Science, Tree Rings",3
+124,J Corburn,Cities Climate Change and Urban Heat Island Mitigation,"Climate Change, Urban Planning, Heat Islands",3
+125,"DB Botkin, EA Keller",Environmental Science and Climate Change,"Climate Change, Environmental Science, Ecosystems",3
+126,Board on Environmental Studies,Hormonally Active Agents in the Environment,"Climate Change, Environmental Health, Endocrine Disruptors",3
+127,"PD Noyes, MK McElwee, HD Miller, BW Clark",The Toxicology of Climate Change,"Climate Change, Environmental Science, Toxicology",3
+128,M Holly,Erosion and Environmental Science Applications,"Climate Change, Environmental Science, Soil Erosion",3
+129,"S Choi, D Niyogi, DP Shepardson",Earth Science Textbooks and Climate Change Concepts,"Climate Change, Environmental Science, Education",3
+130,"DP Shepardson, D Niyogi",Conceptualizing Climate Change in Environmental Education,"Climate Change, Environmental Science, Education",3
+131,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+132,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+133,JY Stein,A computer science perspective,Computer Science Education,1
+134,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+135,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+136,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+137,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+138,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+139,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+140,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+141,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+142,JY Stein,A computer science perspective,Computer Science Education,1
+143,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+144,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+145,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+146,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+147,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+148,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+149,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+150,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+151,JY Stein,A computer science perspective,Computer Science Education,1
+152,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+153,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+154,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+155,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+156,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+157,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+158,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+159,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+160,JY Stein,A computer science perspective,Computer Science Education,1
+161,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+162,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+163,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+164,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+165,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+166,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+167,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+168,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+169,JY Stein,A computer science perspective,Computer Science Education,1
+170,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+171,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+172,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+173,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+174,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+175,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+176,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+177,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+178,JY Stein,A computer science perspective,Computer Science Education,1
+179,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+180,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+181,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+182,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+183,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+184,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+185,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+186,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+187,JY Stein,A computer science perspective,Computer Science Education,1
+188,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+189,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+190,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+191,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+192,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+193,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+194,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+195,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+196,JY Stein,A computer science perspective,Computer Science Education,1
+197,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+198,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+199,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+200,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+201,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+202,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+203,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+204,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+205,JY Stein,A computer science perspective,Computer Science Education,1
+206,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+207,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+208,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+209,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+210,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+211,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+212,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+213,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+214,JY Stein,A computer science perspective,Computer Science Education,1
+215,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+216,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+217,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+218,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+219,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+220,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+221,M Weiser,Some computer science issues in ubiquitous computing,"Ubiquitous Computing, Distributed Systems",1
+222,"AV Aho, JD Ullman",Foundations of computer science,"Algorithms, Computational Models",1
+223,JY Stein,A computer science perspective,Computer Science Education,1
+224,PJ Denning,Is computer science science?,"Philosophy, Science of Computing",1
+225,"JG Brookshear, D Brylow, S Manasa",Computer science: An overview,"Computer Science, Overview, Education",1
+226,"D Gries, FB Schneider",Monographs in Computer Science,"Programming Languages, Theory",1
+227,DE Knuth,Computer science and its relation to mathematics,"Mathematics, Computation",1
+228,G Dodig-Crnkovic,Scientific methods in computer science,"Scientific Method, Computing",1
+229,"O Hazzan, T Lapidot, N Ragonis",Guide to teaching computer science,"Education, Computer Science",1
+230,"JJC Meyer, W van der Hoek",Epistemic logic for AI and computer science,"Epistemic Logic, AI, Computer Science",1
+231,"M Kandlhofer, G Steinbauer",Artificial intelligence and computer science in education: From kindergarten to university,"AI Education, Computer Science, Learning",1
+232,IH Sarker,AI-based modeling: techniques applications and research issues towards automation intelligent and smart systems,"AI Modeling, Automation, Smart Systems",1
+233,AH Eden,Three paradigms of computer science,"Computer Science, Programming Paradigms",1
+234,"P Weber, KV Carl, O Hinz",Applications of explainable artificial intelligence in finance—a systematic review,"Explainable AI, Finance, Computer Science",1
+235,JH Moor,Three myths of computer science,"Computer Science, AI Myths, Software",1
+236,"IH Sarker, MH Furhad, R Nowrozy",Ai-driven cybersecurity: an overview security intelligence modeling and research directions,"AI, Cybersecurity, Security Intelligence",1
+237,DS Grewal,A critical conceptual analysis of definitions of artificial intelligence as applicable to computer engineering,"AI Definitions, Computer Engineering",1
+238,"M Chassignol, A Khoroshavin, A Klimova",Artificial Intelligence trends in education: a narrative overview,"AI Trends, Education, Computer Science",1
+239,"P Bassner, E Frankford, S Krusche",Iris: An AI-driven virtual tutor for computer science education,"AI-driven Tutoring, Virtual Learning, Computer Science",1
+240,N Daniels,Justice health and healthcare,"Healthcare, Health Justice, Medical Ethics",2
+241,M Wehde,Healthcare 4.0,"Healthcare, Digital Health",2
+242,"G Wang, A Badal, X Jia, JS Maltz, K Mueller",Development of metaverse for intelligent healthcare,"Metaverse, AI, Healthcare Innovation",2
+243,"Z Alhadhrami, S Alghfeli, M Alghfeli",Introducing blockchains for healthcare,"Blockchain, Healthcare Security, Digital Health",2
+244,H Thimbleby,Technology and the future of healthcare,"Healthcare Technology, AI in Medicine",2
+245,"K Katsaliaki, N Mustafee",Applications of simulation within the healthcare context,"Simulation, Healthcare Research",2
+246,"G Bansal, K Rajgopal, V Chamola, Z Xiong",Healthcare in metaverse: A survey on current metaverse applications in healthcare,"Metaverse, Healthcare Applications",2
+247,"N Lameire, P Joffe, M Wiedemann",Healthcare systems—an international review: an overview,"Healthcare Systems, Global Health",2
+248,C Wendt,Changing healthcare system types,"Healthcare Reform, Policy Changes",2
+249,"C Wendt, L Frisina, H Rothgang",Healthcare system types: a conceptual framework for comparison,"Healthcare Models, Conceptual Framework",2
+250,"D Schlosberg, LB Collins",From environmental to climate justice: climate change and the discourse of environmental justice,"Climate Change, Environmental Justice",3
+251,F Laczko,Migration the environment and climate change: assessing the evidence.,"Environmental Migration, Climate Change",3
+252,M Keller,Managing grapevines to optimise fruit development in a challenging environment: a climate change primer for viticulturists,"Climate Change, Agriculture, Viticulture",3
+253,RL Wilby,A review of climate change impacts on the built environment,"Climate Change, Built Environment",3
+254,"S Williams, A Schaefer",Small and medium-sized enterprises and sustainability: Managers' values and engagement with environmental and climate change issues,"Climate Change, Business Sustainability",3
+255,"SJ Lindley, JF Handley, N Theuray, E Peet",Adaptation strategies for climate change in the urban environment,"Urban Climate Change, Risk Assessment",3
+256,"M Cassar, R Pender",Climate change and the historic environment,"Climate Change, Historic Conservation",3
+257,"K Warner, M Hamza, A Oliver-Smith, F Renaud, A Julca",Climate change environmental degradation and migration,"Climate Change, Migration, Environmental Degradation",3
+258,"P Convey, R Bindschadler, G Di Prisco",Antarctic climate change and the environment,"Antarctic Climate Change, Global Climate",3
+259,"J Turner, NE Barrand, TJ Bracegirdle, P Convey",Antarctic climate change and the environment: an update,"Climate Change, Antarctic Research",3
